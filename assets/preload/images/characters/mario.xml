@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mario.png"><SubTexture name="mario idle0000" x="0" y="0" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario idle0001" x="562" y="0" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario idle0002" x="1124" y="0" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario idle0003" x="1686" y="0" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario right0000" x="0" y="729" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario right0001" x="562" y="729" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario up0000" x="1124" y="729" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario up0001" x="1686" y="729" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario down0000" x="0" y="1458" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario down0001" x="562" y="1458" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario left0000" x="1124" y="1458" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario left0001" x="1686" y="1458" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missRight0000" x="0" y="2187" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missRight0001" x="562" y="2187" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missRight0002" x="1124" y="2187" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missUp0000" x="1686" y="2187" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missUp0001" x="0" y="2916" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missUp0002" x="562" y="2916" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missDown0000" x="1124" y="2916" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missDown0001" x="1686" y="2916" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missDown0002" x="0" y="3645" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missLeft0000" x="562" y="3645" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missLeft0001" x="1124" y="3645" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+<SubTexture name="mario missLeft0002" x="1686" y="3645" width="562" height="729" frameX="0" frameY="0" frameWidth="562" frameHeight="729" />
+</TextureAtlas>

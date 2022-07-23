@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="piranhaPlant.png"><SubTexture name="piranhaPlant idle0000" x="0" y="0" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant idle0001" x="1565" y="0" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant idle0002" x="3130" y="0" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant idle0003" x="4695" y="0" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant left0000" x="0" y="904" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant left0001" x="1565" y="904" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant left0002" x="3130" y="904" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant left0003" x="4695" y="904" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant right0000" x="0" y="1808" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant right0001" x="1565" y="1808" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant right0002" x="3130" y="1808" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant right0003" x="4695" y="1808" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant down0000" x="0" y="2712" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant down0001" x="1565" y="2712" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant down0002" x="3130" y="2712" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant down0003" x="4695" y="2712" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant up0000" x="0" y="3616" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant up0001" x="1565" y="3616" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant up0002" x="3130" y="3616" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant up0003" x="4695" y="3616" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+<SubTexture name="piranhaPlant up0004" x="0" y="4520" width="1565" height="904" frameX="0" frameY="0" frameWidth="1565" frameHeight="904" />
+</TextureAtlas>
