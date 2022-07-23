@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "piranhaPlant idle",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "piranhaPlant left",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "piranhaPlant right",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "piranhaPlant up",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "piranhaPlant down",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/piranhaPlant",
+	"position": [
+		-420,
+		-100
+	],
+	"healthicon": "piranhaPlant-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		35,
+		35
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
